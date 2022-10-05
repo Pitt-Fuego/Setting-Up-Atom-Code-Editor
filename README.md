@@ -1,6 +1,6 @@
 ## Suggested Text Editors 
 
-Setting up Atom for Windows and CodePad for Chromebooks 
+Setting up Atom for Mac/Windows and CodePad for Chromebooks 
 
 ### (Mac)
 
